@@ -1,10 +1,10 @@
-/*function imc(altura, peso) {
+function imc(altura, peso) {
    return (peso/(altura*altura)); 
 }
 let altura = prompt("Digite sua altura");
 let peso = prompt("Digite seu peso");
 //console.log(altura);
-console.log(imc(altura,peso));*/
+console.log(imc(altura,peso));
 
 function fatorial (numero) {
       let fact = 1;
